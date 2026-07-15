@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "27683558KD.com.porta.app",
+        "appID": "R7LQ7G6FW2.com.uswap.app",
         "paths": ["/listing/*", "/service/*", "/feed/*"]
       }
     ]
