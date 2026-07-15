@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "27683558KD.com.porta.app",
+        "paths": ["/listing/*", "/service/*", "/feed/*"]
+      }
+    ]
+  }
+}
